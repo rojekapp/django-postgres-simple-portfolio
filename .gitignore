@@ -7,7 +7,8 @@
 app/env/
 app/jobs/migrations/
 app/jobs/simple_portfolio/__pycache__/
-app/staticfiles
+
+
 ### Django ###
 *.log
 *.pot
